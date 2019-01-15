@@ -1,7 +1,6 @@
 ################################################################################
 # PsychoPy code to run catFmri - blocked category design
-# behavioural version
-# Rebecca Cutler September 2018
+# eeg sound ver
 
 # saves detailed .log recorded by system and
 # events.csv contains:
